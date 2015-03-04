@@ -1,0 +1,11 @@
+5
+1 2.1
+9 0
+10 7
+20 4.4
+25 10
+30 5
+35 0
+
+ // First number x
+ // Second number height
